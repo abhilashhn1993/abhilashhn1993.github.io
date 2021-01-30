@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>big on Abhilash Nagaraja</title>
+    <link>https://abhilashhn1993.github.io/tags/big/</link>
+    <description>Recent content in big on Abhilash Nagaraja</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://abhilashhn1993.github.io/tags/big/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Movie Recommendation system</title>
+      <link>https://abhilashhn1993.github.io/project/movie-recom/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhilashhn1993.github.io/project/movie-recom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter Streaming using Spark</title>
+      <link>https://abhilashhn1993.github.io/project/spark-streaming/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhilashhn1993.github.io/project/spark-streaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Document Word count</title>
+      <link>https://abhilashhn1993.github.io/project/mapreduce/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhilashhn1993.github.io/project/mapreduce/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
